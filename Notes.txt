@@ -1,0 +1,7 @@
+Formulising  the problem
+> Initial State(s0)
+> Player(p)
+> Action(a)
+> Result(s, a)
+> Terminal-Test(s)
+> Utility(s, p)

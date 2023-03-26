@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QfTMi159sfH5SaWInPnRxSlR6RWG17un4GQkL5wOWA+GW6uyS061FBKzF138o//5Mso9//j0v7ZL+z+zv181Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\billy\\Documents\\GitHub\\COS30018_CSharp\\COS30018_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\billy\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
